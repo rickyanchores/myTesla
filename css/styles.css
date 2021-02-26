@@ -101,6 +101,10 @@ button:hover {
   color: #7a1a1a;
 }
 
+h1 {
+  font-size: 50px;
+}
+
 .line {
   height: 5px;
   width: 25px;
